@@ -10,11 +10,11 @@
 - id: contact_info
   translation: Contact Info
 
-- id: subscribe_newsletter
-  translation: Subscribe Newsletter
+# - id: subscribe_newsletter
+#   translation: Subscribe Newsletter
 
-- id: subscribe
-  translation: Subscribe
+# - id: subscribe
+#   translation: Subscribe
 
 - id: contact_us
   translation: Contact Us
