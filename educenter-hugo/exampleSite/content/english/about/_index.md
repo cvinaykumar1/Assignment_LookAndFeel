@@ -1,23 +1,16 @@
 ---
-title: "About Us"
+title: "About Project"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
-image: "images/about/about-page.jpg"
+#image: "images/about/picyyj.jpg"
 # meta description
-description : "HI!"
+description : "We are Group 8 of ISM 6225 Summer class at University of South Florida. Team members include Hang, Vinay, and Yanjun. This group assignment inteded to get us familiar with html, css, and Javascript. "
 ---
 
-## ABOUT OUR JOURNY
+## Group Members
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Energy consumption has increased dramatically since the last century, and fossil fuels will continue to be the dominant source of energy for decades to come.However, fossil fuels will eventually run out, so alternative fuel vehicles have become particularly important.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Check out our fantastic group members:
