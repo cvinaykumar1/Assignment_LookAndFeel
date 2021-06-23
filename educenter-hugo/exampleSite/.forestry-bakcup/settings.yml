@@ -52,8 +52,8 @@ sections:
   match: "**/*"
   templates:
   - course
-- type: heading
-  label: Notice
+# - type: heading
+#   label: Notice
 - type: directory
   path: exampleSite/content/english/notice
   label: Notice (en)
