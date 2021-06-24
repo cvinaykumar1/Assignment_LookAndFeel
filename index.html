@@ -1,1 +1,57 @@
-<!--Your HTML code here-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <title>Group 8 - NREL</title>
+</head>
+<!--End of Head-->
+<body>
+    <!--start of body-->
+    <div style="left:0px; width:0px; height:0px">
+        <!--Put usf logo at the upper left corner-->
+        <img src="img/usf-logo-2.jpg" alt="USF_LOGO" height="135" width="200" />
+    </div><!--end of usf logo-->
+
+    <h2 style="text-align:center;">
+        <!--Put home page title-->
+        National Renewable Energy Laboratory
+    </h2><!--End of home page title-->
+
+    <div class="center" id="myCenter" style="font-family:sans-serif; align-content:center">
+        <!--start of menu bar-->
+        <a href="index.html"> Home </a>
+        <a href="stations.html"> Alternative Fuel Stations </a>
+        <a href="vehicles.html"> Alternative Fuel Vehicles </a>
+        <a href="about_us.html"> About US </a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div><!--end of menu bar-->
+
+    <img class="center" src="img/nrel-logo.png"  height="500" width="1200" />
+    <div class="para">
+        <!--paragraph-->
+        <p>
+            NREL's highly replicable transportation infrastructure and programs significantly reduce petroleum use campus-wide via alternative fuel fleet vehicles, increased staff use of alternative transportation, telecommuting, and onsite shuttles. NREL uses alternative fuel vehicles whenever possible, including those fueled by E-85 fuel (85% ethanol) and hybrid vehicles.
+        </p>
+    </div><!--end of paragraph-->
+
+    <script>
+        function myFunction() {
+            var a = document.getElementById("myCenter");
+            if (a.className === "center") {
+                a.className += " responsive";
+            } else {
+                a.className = "center";
+            }
+        }
+    </script>
+
+</body><!--end of body-->
+
+
+</html>
