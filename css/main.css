@@ -222,6 +222,29 @@ ul li {
     background-color: #fff;
 }
 
+/* .table--fs{
+    background-color: #fff;
+    border: 1px solid black;
+    table-layout: auto;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    padding: 8px 16px;
+}
+
+.th--fs{
+    border: 1px solid black;
+}
+
+.tbody--fs{
+    border: 1px solid black;
+    table-layout: auto;
+    overflow-x: scroll;
+    
+} */
+
 .bg--FDF8F5 {
     background-color: #FDF8F5;
 }
